@@ -1,2 +1,2 @@
-# WindEnergy
-Analysis of aerodynamic properties of offshore wind turbine
+# Analysis of aerodynamic properties of offshore wind turbine
+WindEnergy
